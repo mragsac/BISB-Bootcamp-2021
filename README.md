@@ -8,11 +8,12 @@ This course is entirely taught by graduate students! There are three main instru
 
 ### Main Instructors
 
-| Name                  | Email Address                                         | Year and Track in BISB                         | Advisor      |
-| --------------------- | ----------------------------------------------------- | ---------------------------------------------- | ------------ |
-| Cameron Martino       | [cmartino@eng.ucsd.edu](mailto:cmartino@eng.ucsd.edu) | 4th Year, Bioinformatics & Systems Biology     | Rob Knight   |
-| Michelle Franc Ragsac | [mragsac@eng.ucsd.edu](mailto:mragsac@eng.ucsd.edu)   | 4th Year, Bioinformatics & Systems Biology     | Emma Farley  |
-| *TBD* | *TBD* | *TBD* | *TBD* |
+| Name                  | Email Address                                         | Year and Track in BISB                     | Advisor      |
+| --------------------- | ----------------------------------------------------- | ------------------------------------------ | ------------ |
+| Cameron Martino       | [cmartino@eng.ucsd.edu](mailto:cmartino@eng.ucsd.edu) | 4th Year, Bioinformatics & Systems Biology | Rob Knight   |
+| Michelle Franc Ragsac | [mragsac@eng.ucsd.edu](mailto:mragsac@eng.ucsd.edu)   | 4th Year, Bioinformatics & Systems Biology | Emma Farley  |
+| Mike Cuoco            | [mcuoco@ucsd.edu](mailto:mcuoco@ucsd.edu)             | 2nd Year, Bioinformatics & Systems Biology | *TBD*        |
+| Lauryn Bruce          | [lbruce@ucsd.edu](mailto:lbruce@ucsd.edu)             | 2nd Year, Biomedical Informatics Program   | *TBD*        |
 
 ### Guest Instructors 
 
