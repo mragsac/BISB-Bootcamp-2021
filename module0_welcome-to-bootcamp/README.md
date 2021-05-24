@@ -10,7 +10,7 @@ New to this year's bootcamp is this handy-dandy checklist to help you adjust to 
 
 ### Action Items
 
-- [ ] Clear your schedule for the week of ** September 13, 2021 to September 17, 2021**
+- [ ] Clear your schedule for the week of **September 13, 2021 to September 17, 2021**
 - [ ] Download **Zoom** for your computer if you don't already have it! 
 
 ### Long Answer
@@ -66,7 +66,7 @@ If you're looking to live *further away from campus*, there are some popular are
 
 Regardless of where you want to live off-campus, you can also find private condos and house rentals through resources such as the UCSD Off-Campus Housing Group on Facebook (https://www.facebook.com/groups/2387457222/), Facebook Marketplace for housing rentals, Zillow, and Craigslist.
 
--- 
+---
 
 ## How should I prepare for the first day of bootcamp? 
 
@@ -107,6 +107,88 @@ During your first year as a graduate student, you will undertake *at least* thre
 We recommend that you browse our list of program faculty then contact professors you are interested in *before* bootcamp to schedule a rotation with them during the academic year (especially for Fall Quarter)! The faculty member will let you know if they would like to take on a rotation student and if they have funding to support your Ph.D. if both of you think that the lab is a good fit. While we recommend contacting professors before bootcamp, at least for your first rotation during the Fall, there will be some time to explore and set things up upon arrival. 
 
 Because of feedback from previous years of bootcamp, we're also hosting a summer seminar series specifically designed for incoming students to help you set up your rotations! In these BISB Bootcamp Summer Faculty Talks, you'll be able to listen to one of our program's faculty members talk about their research and then ask them questions about their lab culture, possible rotation projects, and student expectations. We are also planning to record these talks if you would like to view them later, such as during the school year! 
+
+---
+
+## How do I set up UCSD student accounts for signing up for classes, for email, etc.? 
+
+### Action Items
+
+- [ ] Firstly, ensure that you've submitted all pending documentation for your admissions application (e.g., Accepting your offer of admission, Submitting your transcripts from all institutions attended)
+- [ ] *If you are an **out-of-state** student*, start the process to "Establish California Residency for Tuition Purposes" as detailed here: https://students.ucsd.edu/finances/fees/residence/criteria.html
+- [ ] Set up your UCSD Personal Identification (PID) account password at the following location: https://act.ucsd.edu/manage-sso/applicant
+- [ ] Activate and access your new UCSD student email account by following the steps outlined here: https://ucsdservicedesk.service-now.com/its?id=kb_article_view&sys_kb_id=81dfcdb4db6c90104cd8f06e0f96190b
+- [ ] Create a DUO account for two-factor authentication (2FA) using the instructions found here: https://blink.ucsd.edu/technology/security/services/two-step-login/index.html
+
+### Longer Answer
+
+After admittance to our program, please follow the "Online Admission Checklist" on your UCSD Applicant Portal. This checklist will include formally accepting your offer of admission and submitting your transcripts from all institutions attended. 
+
+Additionally, our program will ask you to submit documentation to be considered a "California Resident for Tuition Purposes." To be considered a California resident, you need to satisfy three conditions:
+
+1. You must be **physically present in California for more than one year (366 days) immediately before the residence determination date**. The residence determination date is the day instruction begins at the last of the University of California campuses to open for the quarter (https://students.ucsd.edu/finances/fees/residence/dates-deadlines.html). 
+2. You must demonstrate that you **intend to make California your permanent home**. This *intent* is evaluated as an independent element of residence, separate from physical presence, and is demonstrated as establishing residential ties in California and relinquishing ties to your former place of residence. 
+3. Finally, **students under the age of 24 must also meet the university's financial independence requirement** in addition to the 366-day physical presence and intent requirements. 
+
+You can find more information about establishing California residency for tuition purposes at the following page: https://students.ucsd.edu/finances/fees/residence/about.html. 
+
+Another thing to set up over the summer is UCSD account-related items. At UCSD, each student is given a Personal Identification Number (PID) in the form of `A########`. This PID will enable you to access resources such as class registration and financial tools! Your PID will be generated for you at least 72 hours after accepting admission to UCSD; in some cases, it may take up to a week to generate your PID. Once it is available, your PID will be available on your application portal (https://connect.grad.ucsd.edu/apply/). Once it is available, you should be able to set up your password for your PID at the following link: https://act.ucsd.edu/manage-sso/applicant. 
+
+After setting up your PID, you should activate and access your new UCSD email account. Your email account is also used for other Information and Technology Services (ITS)-supported systems and services (e.g., computer labs, UCSD WiFi, UCSD VPN, and canvas). Detailed instructions on setting up your PID can be found here: https://ucsdservicedesk.service-now.com/its?id=kb_article_view&sys_kb_id=81dfcdb4db6c90104cd8f06e0f96190b. 
+
+Email accounts use an **Active Directory (AD)** username for email services; this username usually consists of characters found in your name (and sometimes, numbers). For example, Michelle's AD username is `mragsac`! Your AD username is used for logging into any UCSD site that requires "Single Sign On" (SSO). You can find more information about AD accounts here: https://students.ucsd.edu/campus-services/technology/computers/index.html.
+
+> Your **Personal Identification (PID)** number and **Active Directory (AD)** username are *not the same*. Additionally, you should protect your PID number like a password because it is tied to your identity at the university and can be used to hack into your student accounts! 
+
+Finally, you will need to set up a DUO account for two-factor authentication (2FA). DUO 2FA is a security feature for all UCSD accounts that requires verification of identity when logging into UCSD-protected systems. After setting up your AD credentials, you **must** register for DUE before you can access any UCSD SSO-based site or application. You can find more information about registering for DUO at the following link: https://blink.ucsd.edu/technology/security/services/two-step-login/index.html. 
+
+---
+
+## Are there any other new student orientations outside of the BISB Bootcamp that I need to attend?
+
+### Action Items
+
+- [ ] Attend the online orientations for all incoming graduate students held by Graduate Division and the new student convocation: https://grad.ucsd.edu/student-life/events/orientation/index.html
+- [ ] *If you are an international student*, attend orientations for incoming students held by the International Students and Programs Office (ISPO): https://ispo.ucsd.edu/advising/visa/new-students/graduate-students/index.html
+
+### Longer Answer
+
+The UCSD Graduate Division office has an online orientation program designed to support incoming graduate students at UC San Diego and facilitate a successful transition to graduate school. This course will be accessible through the UCSD Canvas website once the university sets up your UCSD account, so stay tuned for additional emails on that from them! 
+
+*For newly admitted international graduate students*, an additional orientation is annually put on by the International Students & Programs Office (ISPO). You will receive an email from them when that orientation happens. Still, there are resources available for the 2021-2022 year for completing the immigration and VISA process for study in the United States. We've included the steps that ISPO recommends that you take below:
+
+* **Step (1)**: Requesting Your Immigration Documentation: https://ispo.ucsd.edu/advising/visa/new-students/graduate-students/graduates-request-documents.html
+* **Step (2)**: Preparing for Your Arrival to UCSD: https://ispo.ucsd.edu/advising/visa/new-students/graduate-students/graduates-before-arrival.html
+* **Step (3)**: Upon Your Arrival to UCSD: https://ispo.ucsd.edu/advising/visa/new-students/graduate-students/graduates-upon-arrival.html
+
+---
+
+## Is there anything else I need to do before coming to UCSD?
+
+### Action Items
+
+- [ ] Be aware of UCSD's dates, deadlines, and holidays on the 2021-2022 Academic Calendar: https://blink.ucsd.edu/instructors/resources/academic/calendars/2020.html
+- [ ] Look over and submit all health screenings and immunization requirements for incoming students: https://studenthealth.ucsd.edu/resources/health-requirements/index.html
+- [ ] Read about UC SHIP, the Student Health Insurance Plan, at the following link: https://shwadmin.ucsd.edu/uc-ship/index.html
+- [ ] Once you're in San Diego, remember to pick up your new UCSD Student Identification Card! You can find instructions on how to get an ID card here: https://sfs.ucsd.edu/campus-cards/your-student-id.html#Graduate-Students
+- [ ] Download the UCSD Mobile Application: https://mobile.ucsd.edu
+
+### Longer Answer
+
+We know that there's a lot of dates to mark on your calendar at the moment, but there are a few more than you should note! UCSD has an academic calendar that details when the academic quarters begin when university holidays are, and when deadlines are! For the 2021-2022 academic year, you can find that information at the following link: https://blink.ucsd.edu/instructors/resources/academic/calendars/2020.html. 
+
+Another thing you should keep on your radar is fulfilling all of UCSD's health screenings and immunization requirements. **All incoming students are required to meet the UC Immunization and Tuberculosis (TB) Screening Requirements**. You can find these requirements here: https://studenthealth.ucsd.edu/resources/health-requirements/index.html#Complete-the-Flu-Vaccine-Requir. To make things a little easier, we've included some of those requirements below:
+
+| Requirement Name                | Date Due                                                           | Relevant Document Link            | 
+| ------------------------------- | ------------------------------------------------------------------ | --------------------------------- |
+| TB Risk Screening Questionnaire | Fall Graduate Deadline: **November 1st**                           | [Tuberculosis Testing Requirement](https://studenthealth.ucsd.edu/_files/resources/health-requirements/tbassessment.pdf) |
+| Immunization Requirements       | Fall Deadline: **September 20th**<br>Hold Placed: **November 1st** | [Immunization Form](https://studenthealth.ucsd.edu/_files/resources/health-requirements/immreqs.pdf) |
+
+All students in our program are automatically enrolled in UC SHIP (Student Health Insurance Plan) each academic year! If you would like to opt-out of the UC SHIP program, you must demonstrate comparable healthcare coverage from another provider. You can find the forms for opting out of the UC SHIP program (called a "Health Insurance Fee Waiver") on the UCSD TritonLink student portal. You can find more information about UC SHIP on their website. 
+
+Finally, once you're in San Diego, you should be able to get your first-ever UCSD student identification card! The first step in this process is to submit your ID photo through the Campus Card Office's online Photo Tool (https://sfs.ucsd.edu/campus-cards/photo-tool.html). After submitting your photo, you can obtain an ID card through an appointment with the campus card center. You can set up an appointment by submitting a case via the Services and Support Portal (https://support.ucsd.edu/students). 
+
+Finally, we recommend that you download the UCSD mobile app! The UCSD mobile app contains quick and easy reference information for your virtual student ID card, weather in San Diego, parking availability on-campus, information for asymptomatic COVID-19 testing (free for all UCSD students!), and more! 
 
 ---
 
