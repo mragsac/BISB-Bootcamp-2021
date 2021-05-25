@@ -98,7 +98,7 @@ Please do not arrive on the first day without the appropriate software installed
 ### Action Items
 
 - [ ] Browse the list of faculty affiliated with the Bioinformatics & Systems Biology program and determine a list of professors you may be interested in working with; you can find a list of professors here: https://www.bioinformatics.ucsd.edu/faculty.
-- [ ] Look over the list of faculty speakers for the BISB Bootcamp Summer Faculty Talks and RSVP to professors whose talks you would like to attend! 
+- [ ] Look over the list of faculty speakers for the BISB Bootcamp Summer Faculty Talks and decide which ones you would like to attend: https://github.com/mragsac/BISB-Bootcamp-2021/tree/main/module0_welcome-to-bootcamp/summer-PI-talk-series! 
 
 ### Longer Answer
 
@@ -108,6 +108,8 @@ We recommend that you browse our list of program faculty then contact professors
 
 Because of feedback from previous years of bootcamp, we're also hosting a summer seminar series specifically designed for incoming students to help you set up your rotations! In these BISB Bootcamp Summer Faculty Talks, you'll be able to listen to one of our program's faculty members talk about their research and then ask them questions about their lab culture, possible rotation projects, and student expectations. We are also planning to record these talks if you would like to view them later, such as during the school year! 
 
+You can find more information about this new talk series at the following link: https://github.com/mragsac/BISB-Bootcamp-2021/tree/main/module0_welcome-to-bootcamp/summer-PI-talk-series. 
+
 ---
 
 ## How do I set up UCSD student accounts for signing up for classes, for email, etc.? 
@@ -115,10 +117,10 @@ Because of feedback from previous years of bootcamp, we're also hosting a summer
 ### Action Items
 
 - [ ] Firstly, ensure that you've submitted all pending documentation for your admissions application (e.g., Accepting your offer of admission, Submitting your transcripts from all institutions attended)
-- [ ] *If you are an **out-of-state** student*, start the process to "Establish California Residency for Tuition Purposes" as detailed here: https://students.ucsd.edu/finances/fees/residence/criteria.html
-- [ ] Set up your UCSD Personal Identification (PID) account password at the following location: https://act.ucsd.edu/manage-sso/applicant
-- [ ] Activate and access your new UCSD student email account by following the steps outlined here: https://ucsdservicedesk.service-now.com/its?id=kb_article_view&sys_kb_id=81dfcdb4db6c90104cd8f06e0f96190b
-- [ ] Create a DUO account for two-factor authentication (2FA) using the instructions found here: https://blink.ucsd.edu/technology/security/services/two-step-login/index.html
+- [ ] *If you are an **out-of-state** student*, start the process to "Establish California Residency for Tuition Purposes" as detailed here: https://students.ucsd.edu/finances/fees/residence/criteria.html.
+- [ ] Set up your UCSD Personal Identification (PID) account password at the following location: https://act.ucsd.edu/manage-sso/applicant.
+- [ ] Activate and access your new UCSD student email account by following the steps outlined here: https://ucsdservicedesk.service-now.com/its?id=kb_article_view&sys_kb_id=81dfcdb4db6c90104cd8f06e0f96190b.
+- [ ] Create a DUO account for two-factor authentication (2FA) using the instructions found here: https://blink.ucsd.edu/technology/security/services/two-step-login/index.html.
 
 ### Longer Answer
 
@@ -148,8 +150,8 @@ Finally, you will need to set up a DUO account for two-factor authentication (2F
 
 ### Action Items
 
-- [ ] Attend the online orientations for all incoming graduate students held by Graduate Division and the new student convocation: https://grad.ucsd.edu/student-life/events/orientation/index.html
-- [ ] *If you are an international student*, attend orientations for incoming students held by the International Students and Programs Office (ISPO): https://ispo.ucsd.edu/advising/visa/new-students/graduate-students/index.html
+- [ ] Attend the online orientations for all incoming graduate students held by Graduate Division and the new student convocation: https://grad.ucsd.edu/student-life/events/orientation/index.html.
+- [ ] *If you are an international student*, attend orientations for incoming students held by the International Students and Programs Office (ISPO): https://ispo.ucsd.edu/advising/visa/new-students/graduate-students/index.html! 
 
 ### Longer Answer
 
@@ -167,11 +169,11 @@ The UCSD Graduate Division office has an online orientation program designed to 
 
 ### Action Items
 
-- [ ] Be aware of UCSD's dates, deadlines, and holidays on the 2021-2022 Academic Calendar: https://blink.ucsd.edu/instructors/resources/academic/calendars/2020.html
-- [ ] Look over and submit all health screenings and immunization requirements for incoming students: https://studenthealth.ucsd.edu/resources/health-requirements/index.html
-- [ ] Read about UC SHIP, the Student Health Insurance Plan, at the following link: https://shwadmin.ucsd.edu/uc-ship/index.html
-- [ ] Once you're in San Diego, remember to pick up your new UCSD Student Identification Card! You can find instructions on how to get an ID card here: https://sfs.ucsd.edu/campus-cards/your-student-id.html#Graduate-Students
-- [ ] Download the UCSD Mobile Application: https://mobile.ucsd.edu
+- [ ] Be aware of UCSD's dates, deadlines, and holidays on the 2021-2022 Academic Calendar: https://blink.ucsd.edu/instructors/resources/academic/calendars/2020.html.
+- [ ] Look over and submit all health screenings and immunization requirements for incoming students: https://studenthealth.ucsd.edu/resources/health-requirements/index.html.
+- [ ] Read about UC SHIP, the Student Health Insurance Plan, at the following link: https://shwadmin.ucsd.edu/uc-ship/index.html.
+- [ ] Once you're in San Diego, remember to pick up your new UCSD Student Identification Card! You can find instructions on how to get an ID card here: https://sfs.ucsd.edu/campus-cards/your-student-id.html#Graduate-Students.
+- [ ] Download the UCSD Mobile Application: https://mobile.ucsd.edu.
 
 ### Longer Answer
 
