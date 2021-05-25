@@ -17,7 +17,13 @@ This course is entirely taught by graduate students! There are three main instru
 
 ### Guest Instructors 
 
-*TBD*
+| Name                | Module Name                                             | Year and Track in BISB                     | Advisor |
+| ------------------- | ------------------------------------------------------- | ------------------------------------------ | ------- |
+| Adam Officer        | Elective: Cancer Biology                                | 4th Year, Biomedical Informatics           | Olivier Harrismendy<br>Pablo Tamayo |
+| Alexander Wenzel    | Ph.D. Speed Dating: How to Choose an Advisor            | 5th Year, Biomedical Informatics           | Jill Mesirov              |
+| Gibraan Rahman      | Module 5: Introduction to Statistics                    | 4th Year, Bioinformatics & Systems Biology | Rob Knight                |
+| Pratibha Jagannatha | Scientific Communication Workshop                       | 3rd Year, Bioinformatics & Systems Biology | Gene Yeo                  |
+| Clarence Mah        | Module 6: Introduction to Bioinformatics - RNA-Seq Demo | 4th Year, Bioinformatics & Systems Biology | Gene Yeo<br>Hannah Carter |
 
 ## Goals of the Bootcamp
 
