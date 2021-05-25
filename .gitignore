@@ -1,3 +1,6 @@
 # Ignore Finder visualization settings
 .DS_Store
 */.DS_Store
+
+# Ignore Jupyter Lab Checkpoints
+.ipynb_checkpoints
