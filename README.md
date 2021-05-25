@@ -30,7 +30,9 @@ This week-long Bootcamp aims to:
 
 ## Bootcamp Schedule
 
-*TBD*
+The complete schedule for this year's Bootcamp can be found at the following link: https://docs.google.com/document/d/1XckTRyl-kSp9_tvGUSm5NuNKDFrgt9FAwGGqQgjypWg/edit?usp=sharing .
+
+Additionally, each day# folder within this repo has the schedule for that specific day.
 
 ## Website Organization
 
