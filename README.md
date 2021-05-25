@@ -19,7 +19,7 @@ This course is entirely taught by graduate students! There are three main instru
 
 | Name                | Module Name                                             | Year and Track in BISB                     | Advisor |
 | ------------------- | ------------------------------------------------------- | ------------------------------------------ | ------- |
-| Adam Officer        | Elective: Cancer Biology                                | 4th Year, Biomedical Informatics           | Olivier Harrismendy<br>Pablo Tamayo |
+| Adam Officer        | Elective: Cancer Biology                                | 4th Year, Biomedical Informatics           | Olivier Harismendy<br>Pablo Tamayo |
 | Alexander Wenzel    | Ph.D. Speed Dating: How to Choose an Advisor            | 5th Year, Biomedical Informatics           | Jill Mesirov              |
 | Gibraan Rahman      | Module 5: Introduction to Statistics                    | 4th Year, Bioinformatics & Systems Biology | Rob Knight                |
 | Pratibha Jagannatha | Scientific Communication Workshop                       | 3rd Year, Bioinformatics & Systems Biology | Gene Yeo                  |
