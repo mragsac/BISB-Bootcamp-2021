@@ -6,7 +6,7 @@ Even though we are catering the talks for incoming students, this event is open 
 
 ## WHERE and WHEN will the talks take place? 
 
-These talks will take place each **Thursday from 12:00 PM PST to 1:00 PM PST** over Zoom! They will start on June 17th, 2021, and continue until September 9th, 2021, before the BISB Bootcamp starts the following week. 
+These talks will take place each **Thursday from 12:00 PM PST to 1:00 PM PST** over Zoom! They will start on June 24th, 2021, and continue until September 9th, 2021, before the BISB Bootcamp starts the following week. 
 
 We plan to send out a flyer to the BISB Program mailing list before each talk to share some information on the week's presenters, along with a password-protected link to the Zoom meeting. 
 
@@ -18,7 +18,6 @@ For each session, we plan to allow two professors to present their research in t
 
 | Date of Presentation | Presentations                     | 
 | -------------------- | --------------------------------- |
-| June 17th, 2021      | *TBA*                             |
 | June 24th, 2021      | *TBA*                             |
 | July 1st, 2021       | *TBA*                             |
 | July 8th, 2021       | *TBA*                             |
