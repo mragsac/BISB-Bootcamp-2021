@@ -16,20 +16,32 @@ For each session, we plan to allow two professors to present their research in t
 
 ## WHAT's the schedule of presenters for this year? 
 
-| Date of Presentation | Presentations                     | 
-| -------------------- | --------------------------------- |
-| June 24th, 2021      | *TBA*                             |
-| July 1st, 2021       | *TBA*                             |
-| July 8th, 2021       | *TBA*                             |
-| July 15th, 2021      | *TBA*                             |
-| July 22nd, 2021      | *TBA*                             |
-| July 29th, 2021      | *TBA*                             |
-| August 5th, 2021     | *TBA*                             |
-| August 12th, 2021    | *TBA*                             |
-| August 19th, 2021    | *TBA*                             |
-| August 26th, 2021    | *TBA*                             |
-| September 2nd, 2021  | *TBA*                             |
-| September 9th, 2021  | *TBA*                             |
+| Date of Presentation             | Presentations                              | 
+| -------------------------------- | ------------------------------------------ |
+| June 24th, 2021<br>[Flyer]()     | *Genetics and genomics of behavioral and physiological traits in outbred rats*<br>**Abraham Palmer, Ph.D.** |
+|                                  | *TBA* |
+| July 1st, 2021<br>[Flyer]()      | *TBA* |
+|                                  | *TBA* |
+| July 8th, 2021<br>[Flyer]()      | *Talk Title TBA*<br>**Jill Mesirov, Ph.D.** |
+|                                  | *TBA* |
+| July 15th, 2021<br>[Flyer]()     | *Scalable tools for viral molecular epidemiology*<br>**Niema Moshiri, Ph.D.** |
+|                                  | *Revisiting the Origin and Emergence of SARS-CoV-2*<br>**Joel Wertheim, Ph.D.** |
+| July 22nd, 2021<br>[Flyer]()     | *Talk Title TBA*<br>**Trey Ideker, Ph.D.** |
+|                                  | *TBA* |
+| July 29th, 2021<br>[Flyer]()     | *Talk Title TBA*<br>**Hannah Carter, Ph.D.** |
+|                                  | *TBA* |
+| August 5th, 2021<br>[Flyer]()    | *Engineering therapeutics with systems and synthetic biology*<br>**Nathan Lewis, Ph.D.** |
+|                                  | *TBA* |
+| August 12th, 2021<br>[Flyer]()   | *Discovery of RNA on cell surface and its impact on cell interaction*<br>**Sheng Zhong, Ph.D.** |
+|                                  | *TBA* |
+| August 19th, 2021<br>[Flyer]()   | *Quantitative modeling of cancer evolution and early detection*<br>**Kit Curtius, Ph.D.** |
+|                                  | *TBA* |
+| August 26th, 2021<br>[Flyer]()   | *Big data computational solutions needed in marine bioacoustics*<br>**Simone Baumann-Pickering, Ph.D.** |
+|                                  | *Talk Title TBA*<br>**Julian Schroeder, Ph.D.** |
+| September 2nd, 2021<br>[Flyer]() | *Genetic approaches to define cell types and genes linked to human diseases*<br>**Pandurangan Vijayanand, M.D. Ph.D.** |
+|                                  | *Blockchain-based Biomedical Predictive Modeling*<br>**Tsung-Ting Kuo, Ph.D.** |
+| September 9th, 2021<br>[Flyer]() | *Talk Title TBA*<br>**Wei Wang, Ph.D.** |
+|                                  | *Profound TET deficiency results in myeloid expansion characterized by heterochromatin dysfunction*<br>**Isaac F. López-Moyado, Ph.D.** (PI: Anjana Rao) |
 
 ## WHO should I contact if I have any questions? 
 
