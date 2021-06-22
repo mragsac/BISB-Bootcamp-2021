@@ -18,7 +18,7 @@ For each session, we plan to allow two professors to present their research in t
 
 | Date of Presentation             | Presentations                              | 
 | -------------------------------- | ------------------------------------------ |
-| June 24th, 2021<br>[Flyer]()     | *Genetics and genomics of behavioral and physiological traits in outbred rats*<br>**Abraham Palmer, Ph.D.** |
+| June 24th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_June-24.pdf)     | *Genetics and genomics of behavioral and physiological traits in outbred rats*<br>**Abraham Palmer, Ph.D.** |
 |                                  | *Characterization of the roles of mitotic associated histone deacetylation patterns*<br>**Alon Goren, Ph.D.** |
 | July 1st, 2021<br>[Flyer]()      | *Talk Title TBA*<br>**Olivier Harismendy, Ph.D.** |
 |                                  | *TBA* |
