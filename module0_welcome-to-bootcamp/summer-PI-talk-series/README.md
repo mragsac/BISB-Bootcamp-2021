@@ -18,10 +18,10 @@ For each session, we plan to allow two professors to present their research in t
 
 | Date of Presentation             | Presentations                              | 
 | -------------------------------- | ------------------------------------------ |
-| June 24th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_June-24.pdf)     | *Genetics and genomics of behavioral and physiological traits in outbred rats*<br>**Abraham Palmer, Ph.D.** |
+| June 24th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_June-24.pdf), [Recording](https://drive.google.com/drive/folders/1TSMUa3KMf9xNa2rQ3YPoUY6CJw8DMf3b?usp=sharing)     | *Genetics and genomics of behavioral and physiological traits in outbred rats*<br>**Abraham Palmer, Ph.D.** |
 |                                  | *Characterization of the roles of mitotic associated histone deacetylation patterns*<br>**Alon Goren, Ph.D.** |
 | July 1st, 2021<br>[Flyer]()      | *Talk Title TBA*<br>**Olivier Harismendy, Ph.D.** |
-|                                  | *TBA* |
+|                                  | *Talk Title TBA*<br>**Louise Laurent, M.D. Ph.D.** |
 | July 8th, 2021<br>[Flyer]()      | *Computational Approaches to the Understanding and Treatment of Cancer*<br>**Jill Mesirov, Ph.D.** |
 |                                  | *scRNA-seq analysis of liver development and liver cancer*<br>**Gen-Sheng Feng, Ph.D.** |
 | July 15th, 2021<br>[Flyer]()     | *Scalable tools for viral molecular epidemiology*<br>**Niema Moshiri, Ph.D.** |
@@ -42,6 +42,21 @@ For each session, we plan to allow two professors to present their research in t
 |                                  | *Blockchain-based Biomedical Predictive Modeling*<br>**Tsung-Ting Kuo, Ph.D.** |
 | September 9th, 2021<br>[Flyer]() | *Talk Title TBA*<br>**Wei Wang, Ph.D.** |
 |                                  | *Profound TET deficiency results in myeloid expansion characterized by heterochromatin dysfunction*<br>**Isaac F. López-Moyado, Ph.D.** (PI: Anjana Rao) |
+
+## WILL these talks be recorded?
+
+After confirming with the speakers, we will be recording all of the talks! You can find a link to the collection of all recordings in the following Google Drive Folder: https://drive.google.com/drive/folders/1ZE87f73gIF-THYAohX1StiMYhtVgrwPo?usp=sharing. 
+
+Additionally, we will also be asking each of the speakers the following set of questions: 
+
+```
+1. What's the best way to get in touch with you about rotating in your lab?
+2. What research rotation projects do you have in mind for students?
+3. What's the current undergraduate, graduate, postdoctoral scholar, and research associate (or above!) population in your lab? 
+4. (If there's time...) Are there any courses you would recommend that are applicable to your lab's research?
+```
+
+You can find each speaker's answers to these questions, along with some brief notes of their talk, at the following link: https://docs.google.com/document/d/1kfIgKLwuEpGyvFT4-Lm4CKqC3xh1MOA3zf9HnpOUsQY/edit?usp=sharing. 
 
 ## WHO should I contact if I have any questions? 
 
