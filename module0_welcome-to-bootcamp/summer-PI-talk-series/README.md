@@ -20,27 +20,27 @@ For each session, we plan to allow two professors to present their research in t
 | -------------------------------- | ------------------------------------------ |
 | June 24th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_June-24.pdf), [Recording](https://drive.google.com/drive/folders/1TSMUa3KMf9xNa2rQ3YPoUY6CJw8DMf3b?usp=sharing)     | *Genetics and genomics of behavioral and physiological traits in outbred rats*<br>**Abraham Palmer, Ph.D.** |
 |                                  | *Characterization of the roles of mitotic associated histone deacetylation patterns*<br>**Alon Goren, Ph.D.** |
-| July 1st, 2021<br>[Flyer]()      | *Talk Title TBA*<br>**Olivier Harismendy, Ph.D.** |
+| July 1st, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_July-1.pdf), [Recording](https://drive.google.com/drive/folders/1u645_Vy816Nt3XP1Z2991y67WiOjRgYh?usp=sharing)      | *Talk Title TBA*<br>**Olivier Harismendy, Ph.D.** |
 |                                  | *Talk Title TBA*<br>**Louise Laurent, M.D. Ph.D.** |
-| July 8th, 2021<br>[Flyer]()      | *Computational Approaches to the Understanding and Treatment of Cancer*<br>**Jill Mesirov, Ph.D.** |
+| July 8th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_July-8.pdf), [Recording]()      | *Computational Approaches to the Understanding and Treatment of Cancer*<br>**Jill Mesirov, Ph.D.** |
 |                                  | *scRNA-seq analysis of liver development and liver cancer*<br>**Gen-Sheng Feng, Ph.D.** |
-| July 15th, 2021<br>[Flyer]()     | *Scalable tools for viral molecular epidemiology*<br>**Niema Moshiri, Ph.D.** |
+| July 15th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_July-15.pdf), [Recording]()     | *Scalable tools for viral molecular epidemiology*<br>**Niema Moshiri, Ph.D.** |
 |                                  | *Revisiting the Origin and Emergence of SARS-CoV-2*<br>**Joel Wertheim, Ph.D.** |
-| July 22nd, 2021<br>[Flyer]()     | *Building the Mind of Cancer*<br>**Trey Ideker, Ph.D.** |
+| July 22nd, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_July-22.pdf), [Recording]()     | *Building the Mind of Cancer*<br>**Trey Ideker, Ph.D.** |
 |                                  | *Talk Title TBA*<br>**Graham McVicker, Ph.D.** |
-| July 29th, 2021<br>[Flyer]()     | *Talk Title TBA*<br>**Hannah Carter, Ph.D.** |
+| July 29th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_July-29.pdf), [Recording]()     | *Talk Title TBA*<br>**Hannah Carter, Ph.D.** |
 |                                  | *Talk Title TBA*<br>**Benjamin Smarr, Ph.D.** |
-| August 5th, 2021<br>[Flyer]()    | *Engineering therapeutics with systems and synthetic biology*<br>**Nathan Lewis, Ph.D.** |
+| August 5th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_August-5.pdf), [Recording]()    | *Engineering therapeutics with systems and synthetic biology*<br>**Nathan Lewis, Ph.D.** |
 |                                  | *Talk Title TBA*<br>**Robert El-Kareh, M.D. M.P.H.** |
-| August 12th, 2021<br>[Flyer]()   | *Discovery of RNA on cell surface and its impact on cell interaction*<br>**Sheng Zhong, Ph.D.** |
+| August 12th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_August-12.pdf), [Recording]()   | *Discovery of RNA on cell surface and its impact on cell interaction*<br>**Sheng Zhong, Ph.D.** |
 |                                  | *Talk Title TBA*<br>**Lucila Ohno-Machado, M.D. Ph.D.** |
-| August 19th, 2021<br>[Flyer]()   | *Quantitative modeling of cancer evolution and early detection*<br>**Kit Curtius, Ph.D.** |
+| August 19th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_August-19.pdf), [Recording]()   | *Quantitative modeling of cancer evolution and early detection*<br>**Kit Curtius, Ph.D.** |
 |                                  | *Talk Title TBA*<br>**Gene Yeo, Ph.D. M.B.A.** |
-| August 26th, 2021<br>[Flyer]()   | *Big data computational solutions needed in marine bioacoustics*<br>**Simone Baumann-Pickering, Ph.D.** |
+| August 26th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_August-26.pdf), [Recording]()   | *Big data computational solutions needed in marine bioacoustics*<br>**Simone Baumann-Pickering, Ph.D.** |
 |                                  | *Talk Title TBA*<br>**Julian Schroeder, Ph.D.** |
-| September 2nd, 2021<br>[Flyer]() | *Genetic approaches to define cell types and genes linked to human diseases*<br>**Pandurangan Vijayanand, M.D. Ph.D.** |
+| September 2nd, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_September-2.pdf), [Recording]() | *Genetic approaches to define cell types and genes linked to human diseases*<br>**Pandurangan Vijayanand, M.D. Ph.D.** |
 |                                  | *Blockchain-based Biomedical Predictive Modeling*<br>**Tsung-Ting Kuo, Ph.D.** |
-| September 9th, 2021<br>[Flyer]() | *Talk Title TBA*<br>**Wei Wang, Ph.D.** |
+| September 9th, 2021<br>[Flyer](https://github.com/mragsac/BISB-Bootcamp-2021/blob/main/module0_welcome-to-bootcamp/summer-PI-talk-series/flyers/BISB-Bootcamp-2021_Summer-PI-Talks_September-9.pdf), [Recording]() | *Talk Title TBA*<br>**Wei Wang, Ph.D.** |
 |                                  | *Profound TET deficiency results in myeloid expansion characterized by heterochromatin dysfunction*<br>**Isaac F. López-Moyado, Ph.D.** (PI: Anjana Rao) |
 
 ## WILL these talks be recorded?
