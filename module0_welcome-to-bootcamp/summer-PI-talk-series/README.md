@@ -45,7 +45,9 @@ For each session, we plan to allow two professors to present their research in t
 
 ## WILL these talks be recorded?
 
-After confirming with the speakers, we will be recording all of the talks! You can find a link to the collection of all recordings in the following Google Drive Folder: https://drive.google.com/drive/folders/1ZE87f73gIF-THYAohX1StiMYhtVgrwPo?usp=sharing. 
+After confirming with the speakers, we will be recording all of the talks! You can find a link to the collection of all recordings in the following Google Drive Folder: https://drive.google.com/drive/folders/1-cevZCNax2ZsLS2cJoNO5HgOm9dL7p77?usp=sharing. 
+
+*Please note that this folder is currently restricted to emails from the **@eng.ucsd.edu** domain. If you would like to view the recordings and you're not currently a part of this domain, you will need to request access!*
 
 Additionally, we will also be asking each of the speakers the following set of questions: 
 
