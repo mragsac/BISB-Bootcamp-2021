@@ -10,11 +10,11 @@ This module is meant for students that have very little to no knowledge in progr
 
 ## Module Learning Goals
 
-1. Common Languages and Help Resources
-2. Anatomy of a Software
-3. Algorithms & Data Structures
-4. Testing and Debugging
-5. Software Best Practices
+1. Software Best Practices
+2. Common Languages and Help Resources
+3. Anatomy of a Software
+4. Algorithms & Data Structures
+5. Testing and Debugging
 6. Miscellania you didn’t know you needed to know
 7. Python 3 Notebook Exercise 
 
