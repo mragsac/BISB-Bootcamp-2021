@@ -1,0 +1,148 @@
+STAR version=2.7.9a
+STAR compilation time,server,dir= :/Users/cshl/data/STAR/STAR/source
+##### Command Line:
+STAR --genomeDir outputs/STAR_yeast_reference --runThreadN 1 --readFilesIn data/yeast_R1.fastq data/yeast_R2.fastq --outFileNamePrefix outputs/STAR_alignment_results/yeast --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within
+##### Initial USER parameters from Command Line:
+outFileNamePrefix                 outputs/STAR_alignment_results/yeast
+###### All USER parameters from Command Line:
+genomeDir                     outputs/STAR_yeast_reference     ~RE-DEFINED
+runThreadN                    1     ~RE-DEFINED
+readFilesIn                   data/yeast_R1.fastq   data/yeast_R2.fastq        ~RE-DEFINED
+outFileNamePrefix             outputs/STAR_alignment_results/yeast     ~RE-DEFINED
+outSAMtype                    BAM   SortedByCoordinate        ~RE-DEFINED
+outSAMunmapped                Within        ~RE-DEFINED
+##### Finished reading parameters from all sources
+
+##### Final user re-defined parameters-----------------:
+runThreadN                        1
+genomeDir                         outputs/STAR_yeast_reference
+readFilesIn                       data/yeast_R1.fastq   data/yeast_R2.fastq   
+outFileNamePrefix                 outputs/STAR_alignment_results/yeast
+outSAMtype                        BAM   SortedByCoordinate   
+outSAMunmapped                    Within   
+
+-------------------------------
+##### Final effective command line:
+STAR   --runThreadN 1   --genomeDir outputs/STAR_yeast_reference   --readFilesIn data/yeast_R1.fastq   data/yeast_R2.fastq      --outFileNamePrefix outputs/STAR_alignment_results/yeast   --outSAMtype BAM   SortedByCoordinate      --outSAMunmapped Within   
+----------------------------------------
+
+Number of fastq files for each mate = 1
+ParametersSolo: --soloCellFilterType CellRanger2.2 filtering parameters:  3000 0.99 10
+WARNING: --limitBAMsortRAM=0, will use genome size as RAM limit for BAM sorting
+Finished loading and checking parameters
+Reading genome generation parameters:
+### STAR   --runMode genomeGenerate      --runThreadN 1   --genomeDir outputs/STAR_yeast_reference   --genomeFastaFiles data/yeast.fasta      --sjdbGTFfile data/yeast.gtf
+### GstrandBit=32
+versionGenome                 2.7.4a     ~RE-DEFINED
+genomeType                    Full     ~RE-DEFINED
+genomeFastaFiles              data/yeast.fasta        ~RE-DEFINED
+genomeSAindexNbases           14     ~RE-DEFINED
+genomeChrBinNbits             18     ~RE-DEFINED
+genomeSAsparseD               1     ~RE-DEFINED
+genomeTransformType           None     ~RE-DEFINED
+genomeTransformVCF            -     ~RE-DEFINED
+sjdbOverhang                  100     ~RE-DEFINED
+sjdbFileChrStartEnd           -        ~RE-DEFINED
+sjdbGTFfile                   data/yeast.gtf     ~RE-DEFINED
+sjdbGTFchrPrefix              -     ~RE-DEFINED
+sjdbGTFfeatureExon            exon     ~RE-DEFINED
+sjdbGTFtagExonParentTranscripttranscript_id     ~RE-DEFINED
+sjdbGTFtagExonParentGene      gene_id     ~RE-DEFINED
+sjdbInsertSave                Basic     ~RE-DEFINED
+genomeFileSizes               14748806   100860420        ~RE-DEFINED
+Genome version is compatible with current STAR
+Number of real (reference) chromosomes= 17
+1	chrI	230218	0
+2	chrII	813184	262144
+3	chrIII	316620	1310720
+4	chrIV	1531933	1835008
+5	chrIX	439888	3407872
+6	chrM	85779	3932160
+7	chrV	576874	4194304
+8	chrVI	270161	4980736
+9	chrVII	1090940	5505024
+10	chrVIII	562643	6815744
+11	chrX	745751	7602176
+12	chrXI	666816	8388608
+13	chrXII	1078177	9175040
+14	chrXIII	924431	10485760
+15	chrXIV	784333	11534336
+16	chrXV	1091291	12320768
+17	chrXVI	948066	13631488
+--sjdbOverhang = 100 taken from the generated genome
+Started loading the genome: Wed Sep  8 10:14:38 2021
+
+Genome: size given as a parameter = 14748806
+SA: size given as a parameter = 100860420
+SAindex: size given as a parameter = 1
+Read from SAindex: pGe.gSAindexNbases=14  nSAi=357913940
+nGenome=14748806;  nSAbyte=100860420
+GstrandBit=32   SA number of indices=24451010
+Shared memory is not used for genomes. Allocated a private copy of the genome.
+Genome file size: 14748806 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading Genome ... done! state: good=1 eof=0 fail=0 bad=0; loaded 14748806 bytes
+SA file size: 100860420 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading SA ... done! state: good=1 eof=0 fail=0 bad=0; loaded 100860420 bytes
+Loading SAindex ... done: 1565873619 bytes
+Finished loading the genome: Wed Sep  8 10:14:40 2021
+
+Sum of all Genome bytes: 30933041
+Sum of all SA bytes: 9537507248
+Sum of all SAi bytes: 148467937528
+Processing splice junctions database sjdbN=342,   pGe.sjdbOverhang=100 
+alignIntronMax=alignMatesGapMax=0, the max intron size will be approximately determined by (2^winBinNbits)*winAnchorDistNbins=589824
+Thread #0 end of input stream, nextChar=-1
+BAM sorting: 45933 mapped reads
+BAM sorting bins genomic start loci:
+1	1	88507
+2	1	320175
+3	1	478171
+4	1	653718
+5	2	177583
+6	3	87668
+7	3	307264
+8	3	527735
+9	3	818739
+10	3	1225429
+11	3	1442111
+12	4	255099
+13	6	96036
+14	6	335500
+15	7	13835
+16	8	20938
+17	8	254743
+18	8	480657
+19	8	780376
+20	8	837088
+21	8	1024332
+22	9	207102
+23	9	462925
+24	10	154494
+25	10	520887
+26	10	728725
+27	11	119696
+28	11	327347
+29	11	618231
+30	12	225117
+31	12	410797
+32	12	465761
+33	12	638991
+34	12	875681
+35	13	146836
+36	13	500629
+37	13	758519
+38	14	164587
+39	14	419099
+40	14	778735
+41	15	272398
+42	15	605903
+43	15	912948
+44	16	75720
+45	16	193862
+46	16	311501
+47	16	533526
+48	16	701295
+Completed: thread #0
+Sep 08 10:14:47 ..... started sorting BAM
+Max memory needed for sorting = 209189
+ALL DONE!
