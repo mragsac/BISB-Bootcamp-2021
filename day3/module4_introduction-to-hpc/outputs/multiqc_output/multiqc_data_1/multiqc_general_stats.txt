@@ -1,0 +1,4 @@
+Sample	featureCounts_mqc-generalstats-featurecounts-percent_assigned	featureCounts_mqc-generalstats-featurecounts-Assigned	STAR_mqc-generalstats-star-uniquely_mapped_percent	STAR_mqc-generalstats-star-uniquely_mapped	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+yeast	77.21668468035708	38579	86.53	20353.0	10.58604539449982	42.0	75.48672991473519	10.0	49962.0
+yeast_R1					5.480442176870753	42.0	75.52610544217687	10.0	23520.0
+yeast_R2					4.570578231292515	42.0	75.45446428571428	10.0	23520.0
