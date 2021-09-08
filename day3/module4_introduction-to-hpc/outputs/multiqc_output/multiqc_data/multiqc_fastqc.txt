@@ -1,0 +1,4 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+yeast	yeastAligned.sortedByName.out.bam	Conventional base calls	Sanger / Illumina 1.9	49962.0	0.0	35-76	42.0	89.41395460550018	75.48672991473519	pass	pass	pass	fail	pass	pass	warn	pass	pass	pass
+yeast_R1	yeast_R1.fastq	Conventional base calls	Sanger / Illumina 1.9	23520.0	0.0	51-76	42.0	94.51955782312925	75.52610544217687	pass	pass	pass	fail	pass	pass	warn	pass	pass	pass
+yeast_R2	yeast_R2.fastq	Conventional base calls	Sanger / Illumina 1.9	23520.0	0.0	35-76	42.0	95.42942176870748	75.45446428571428	pass	pass	pass	fail	pass	pass	warn	pass	pass	pass

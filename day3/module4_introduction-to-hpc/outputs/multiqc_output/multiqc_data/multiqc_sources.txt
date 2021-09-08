@@ -1,0 +1,6 @@
+Module	Section	Sample Name	Source
+featureCounts	all_sections	yeast	/Users/mragsac/Documents/BISB-Bootcamp-2021/day3/module4_introduction-to-hpc/outputs/final_counts_matrix.txt.summary
+STAR	SummaryLog	yeast	/Users/mragsac/Documents/BISB-Bootcamp-2021/day3/module4_introduction-to-hpc/outputs/STAR_alignment_results/yeastLog.final.out
+FastQC	all_sections	yeast_R2	/Users/mragsac/Documents/BISB-Bootcamp-2021/day3/module4_introduction-to-hpc/outputs/fastqc_output/yeast_R2_fastqc.zip
+FastQC	all_sections	yeast	/Users/mragsac/Documents/BISB-Bootcamp-2021/day3/module4_introduction-to-hpc/outputs/fastqc_output/yeastAligned.sortedByName.out_fastqc.zip
+FastQC	all_sections	yeast_R1	/Users/mragsac/Documents/BISB-Bootcamp-2021/day3/module4_introduction-to-hpc/outputs/fastqc_output/yeast_R1_fastqc.zip

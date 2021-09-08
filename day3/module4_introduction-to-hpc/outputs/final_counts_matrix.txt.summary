@@ -1,0 +1,15 @@
+Status	outputs/STAR_alignment_results/yeastAligned.sortedByName.out.bam
+Assigned	38579
+Unassigned_Unmapped	4029
+Unassigned_Read_Type	0
+Unassigned_Singleton	0
+Unassigned_MappingQuality	0
+Unassigned_Chimera	0
+Unassigned_FragmentLength	0
+Unassigned_Duplicate	0
+Unassigned_MultiMapping	5228
+Unassigned_Secondary	0
+Unassigned_NonSplit	0
+Unassigned_NoFeatures	2024
+Unassigned_Overlapping_Length	0
+Unassigned_Ambiguity	102
