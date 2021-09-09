@@ -217,8 +217,8 @@ Finally, we recommend that you download the UCSD mobile app! The UCSD mobile app
 | --------------------- | ----------------------------------------------------- | ------------------------------------------ | ------------ |
 | Cameron Martino       | [cmartino@eng.ucsd.edu](mailto:cmartino@eng.ucsd.edu) | 4th Year, Bioinformatics & Systems Biology | Rob Knight   |
 | Michelle Franc Ragsac | [mragsac@eng.ucsd.edu](mailto:mragsac@eng.ucsd.edu)   | 4th Year, Bioinformatics & Systems Biology | Emma Farley  |
-| Mike Cuoco            | [mcuoco@ucsd.edu](mailto:mcuoco@ucsd.edu)             | 2nd Year, Bioinformatics & Systems Biology | *TBD*        |
-| Lauryn Bruce          | [lbruce@ucsd.edu](mailto:lbruce@ucsd.edu)             | 2nd Year, Biomedical Informatics Program   | *TBD*        |
+| Mike Cuoco            | [mcuoco@ucsd.edu](mailto:mcuoco@ucsd.edu)             | 2nd Year, Bioinformatics & Systems Biology | Rusty Gage   |
+| Lauryn Bruce          | [lbruce@ucsd.edu](mailto:lbruce@ucsd.edu)             | 2nd Year, Biomedical Informatics Program   | Lucila Ohno Machado, Ben Smarr |
 
 *For general questions about student life in the BISB Program,* feel free to shoot a message to the BISB Student Discord! Our discord server is entirely student-run (Michelle is also one of the moderators!), and you can find people from different labs, different years, and different program tracks! It's a great informal resource to chat with your fellow students, especially as we've all been working remotely during the COVID-19 pandemic. 
 
