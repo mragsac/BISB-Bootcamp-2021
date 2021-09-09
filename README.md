@@ -13,7 +13,7 @@ This course is entirely taught by graduate students! There are three main instru
 | Cameron Martino       | [cmartino@eng.ucsd.edu](mailto:cmartino@eng.ucsd.edu) | 4th Year, Bioinformatics & Systems Biology | Rob Knight   |
 | Michelle Franc Ragsac | [mragsac@eng.ucsd.edu](mailto:mragsac@eng.ucsd.edu)   | 4th Year, Bioinformatics & Systems Biology | Emma Farley  |
 | Mike Cuoco            | [mcuoco@ucsd.edu](mailto:mcuoco@ucsd.edu)             | 2nd Year, Bioinformatics & Systems Biology | Rusty Gage   |
-| Lauryn Bruce          | [lbruce@ucsd.edu](mailto:lbruce@ucsd.edu)             | 2nd Year, Biomedical Informatics Program   | *TBD*        |
+| Lauryn Bruce          | [lbruce@ucsd.edu](mailto:lbruce@ucsd.edu)             | 2nd Year, Biomedical Informatics Program   | Lucila Ohno Machado, Ben Smarr       |
 
 ### Guest Instructors 
 
