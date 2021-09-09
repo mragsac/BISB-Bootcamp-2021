@@ -99,6 +99,11 @@ Please do not arrive on the first day without the appropriate software installed
 
 - [ ] Browse the list of faculty affiliated with the Bioinformatics & Systems Biology program and determine a list of professors you may be interested in working with; you can find a list of professors here: https://www.bioinformatics.ucsd.edu/faculty.
 - [ ] Look over the list of faculty speakers for the BISB Bootcamp Summer Faculty Talks and decide which ones you would like to attend: https://github.com/mragsac/BISB-Bootcamp-2021/tree/main/module0_welcome-to-bootcamp/summer-PI-talk-series! 
+- [ ] Browse Department websit pages on rotations:
+* Rotation Guidelines: https://www.bioinformatics.ucsd.edu/node/99
+* BISB Rotation Projects: https://www.bioinformatics.ucsd.edu/node/86
+* BMI Rotation Projects: https://www.bioinformatics.ucsd.edu/node/89
+
 
 ### Longer Answer
 
@@ -121,6 +126,7 @@ You can find more information about this new talk series at the following link: 
 - [ ] Set up your UCSD Personal Identification (PID) account password at the following location: https://act.ucsd.edu/manage-sso/applicant.
 - [ ] Activate and access your new UCSD student email account by following the steps outlined here: https://ucsdservicedesk.service-now.com/its?id=kb_article_view&sys_kb_id=81dfcdb4db6c90104cd8f06e0f96190b.
 - [ ] Create a DUO account for two-factor authentication (2FA) using the instructions found here: https://blink.ucsd.edu/technology/security/services/two-step-login/index.html.
+- [ ] Further instructions can be found on the BISB website here: https://bioinformatics.ucsd.edu/node/31.
 
 ### Longer Answer
 
@@ -169,7 +175,7 @@ The UCSD Graduate Division office has an online orientation program designed to 
 
 ### Action Items
 
-- [ ] Be aware of UCSD's dates, deadlines, and holidays on the 2021-2022 Academic Calendar: https://blink.ucsd.edu/instructors/resources/academic/calendars/2020.html.
+- [ ] Be aware of UCSD's dates, deadlines, and holidays on the 2021-2022 Academic Calendar: https://blink.ucsd.edu/instructors/resources/academic/calendars/index.html.
 - [ ] Look over and submit all health screenings and immunization requirements for incoming students: https://studenthealth.ucsd.edu/resources/health-requirements/index.html.
 - [ ] Read about UC SHIP, the Student Health Insurance Plan, at the following link: https://shwadmin.ucsd.edu/uc-ship/index.html.
 - [ ] Once you're in San Diego, remember to pick up your new UCSD Student Identification Card! You can find instructions on how to get an ID card here: https://sfs.ucsd.edu/campus-cards/your-student-id.html#Graduate-Students.
@@ -221,4 +227,7 @@ Finally, we recommend that you download the UCSD mobile app! The UCSD mobile app
 | Name               | Email Address                                                   | Title                             | 
 | ------------------ | --------------------------------------------------------------- | --------------------------------- | 
 | Fran Perez Estrada | [fperezestrada@eng.ucsd.edu](mailto:fperezestrada@eng.ucsd.edu) | BISB Graduate Coordinator         | 
-| Elizabeth Soos     | [esoos@eng.ucsd.edu](mailto:esoos@eng.ucsd.edu)                 | BISB/BENG Student Affairs Manager | 
+| Terry Gaasterland    | [tgaasterland@ucsd.edu](mailto:tgaasterland@ucsd.edu)                 | BISB/BMI Steering Committee Program Director | 
+| Glenn Tesler    | [gptesler@math.ucsd.edu](mailto:gptesler@math.ucsd.edu)                 | BISB/BMI Curriculum Committee Chair |  
+
+For a list of all program leadership, see website: https://bioinformatics.ucsd.edu/node/3
