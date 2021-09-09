@@ -183,7 +183,7 @@ The UCSD Graduate Division office has an online orientation program designed to 
 
 ### Longer Answer
 
-We know that there's a lot of dates to mark on your calendar at the moment, but there are a few more than you should note! UCSD has an academic calendar that details when the academic quarters begin when university holidays are, and when deadlines are! For the 2021-2022 academic year, you can find that information at the following link: https://blink.ucsd.edu/instructors/resources/academic/calendars/2020.html. 
+We know that there's a lot of dates to mark on your calendar at the moment, but there are a few more than you should note! UCSD has an academic calendar that details when the academic quarters begin when university holidays are, and when deadlines are! For the 2021-2022 academic year, you can find that information at the following link: https://blink.ucsd.edu/instructors/resources/academic/calendars/index.html. 
 
 Another thing you should keep on your radar is fulfilling all of UCSD's health screenings and immunization requirements. **All incoming students are required to meet the UC Immunization and Tuberculosis (TB) Screening Requirements**. You can find these requirements here: https://studenthealth.ucsd.edu/resources/health-requirements/index.html#Complete-the-Flu-Vaccine-Requir. To make things a little easier, we've included some of those requirements below:
 
