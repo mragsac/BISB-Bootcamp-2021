@@ -13,7 +13,7 @@ This course is entirely taught by graduate students! There are three main instru
 | Cameron Martino       | [cmartino@eng.ucsd.edu](mailto:cmartino@eng.ucsd.edu) | 4th Year, Bioinformatics & Systems Biology | Rob Knight   |
 | Michelle Franc Ragsac | [mragsac@eng.ucsd.edu](mailto:mragsac@eng.ucsd.edu)   | 4th Year, Bioinformatics & Systems Biology | Emma Farley  |
 | Mike Cuoco            | [mcuoco@ucsd.edu](mailto:mcuoco@ucsd.edu)             | 2nd Year, Bioinformatics & Systems Biology | Rusty Gage   |
-| Lauryn Bruce          | [lbruce@ucsd.edu](mailto:lbruce@ucsd.edu)             | 2nd Year, Biomedical Informatics Program   | Lucila Ohno Machado, Ben Smarr       |
+| Lauryn Bruce          | [lbruce@ucsd.edu](mailto:lbruce@ucsd.edu)             | 2nd Year, Biomedical Informatics Program   | Lucila Ohno Machado, Benjamin Smarr       |
 
 ### Guest Instructors 
 
@@ -40,7 +40,43 @@ Additionally, each day# folder within this repo has the schedule for that specif
 
 ## Website Organization
 
-*TBD*
+```
+. BISB-Bootcamp-2021/
+├── README.md
+├── day1/
+│   ├── README.md
+│   ├── module1a_coding-for-biologists/
+│   ├── module1b_genetics-101/
+│   └── presentations/
+├── day2/
+│   ├── README.md
+│   ├── module2_genomic-technologies/
+│   ├── module3a_programming-101/
+│   ├── module3b_how-the-sausage-is-made/
+│   └── presentations/
+├── day3/
+│   ├── README.md
+│   ├── module4_introduction-to-hpc/
+│   ├── module5_introduction-to-statistics/
+│   └── presentations/
+├── day4/
+│   ├── README.md
+│   ├── module6_bioinformatics-data-wrangling/
+│   ├── module7_pair-programming/
+│   ├── module8_machine-learning/
+│   └── presentations/
+├── day5/
+│   ├── README.md
+│   ├── module9_software-engineering/
+│   └── presentations/
+└── module0_welcome-to-bootcamp/
+    ├── README.md
+    └── summer-PI-talk-series/
+
+23 directories, 7 files
+```
+
+Within this repository, each day of the BISB Bootcamp is separated into its own folder and its own `README.md` file. From there, the educational modules for that day are in their separate folders. Presentations given by the BISB Bootcamp Instructors and guest speakers will be located in the `presentations/` folder and updated as we obtain slide decks and/or presentation links. 
 
 ## General Resources
 
