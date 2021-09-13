@@ -4,8 +4,8 @@
 
 ### Speaker Information
 
-BISB General Program/Track Introduction - Terry Gaasterland, Ph.D. (tgaasterland@ucsd.edu)
-BMI Track Introduction - Lucila Ohno-Machado, M.D. Ph.D. (lohnomachado@health.ucsd.edu)
+* BISB General Program/Track Introduction** - Terry Gaasterland, Ph.D. (tgaasterland@ucsd.edu)
+* BMI Track Introduction - Lucila Ohno-Machado, M.D. Ph.D. (lohnomachado@health.ucsd.edu)
 
 ### Presentation Location
 
@@ -30,8 +30,8 @@ https://docs.google.com/presentation/d/14okMIQ15t69ADGzjIBSbhj-HX6uNuH94T-iNAuJM
 
 ### Speaker Information
 
-Michelle Franc Ragsac (mragsac@eng.ucsd.edu)
-Cameron Martino (cmartino@eng.ucsd.edu)
+* Michelle Franc Ragsac (mragsac@eng.ucsd.edu)
+* Cameron Martino (cmartino@eng.ucsd.edu)
 
 ### Presentation Location
 
