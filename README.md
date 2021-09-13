@@ -34,9 +34,11 @@ This week-long Bootcamp aims to:
 
 ## Bootcamp Schedule
 
-The complete schedule for this year's Bootcamp can be found at the following link: https://docs.google.com/document/d/1XckTRyl-kSp9_tvGUSm5NuNKDFrgt9FAwGGqQgjypWg/edit?usp=sharing .
+The complete schedule for this year's Bootcamp can be found at the following link: https://docs.google.com/document/d/1XckTRyl-kSp9_tvGUSm5NuNKDFrgt9FAwGGqQgjypWg/edit?usp=sharing.
 
-Additionally, each day# folder within this repo has the schedule for that specific day.
+Additionally, each `day#` folder within this repo has the schedule for that specific day.
+
+You may also find folders containing each day's recordings at the following link: https://drive.google.com/drive/folders/1mZ6MihUQiyV55XpJ6NUhqGKwPk810ir4?usp=sharing. However, this folder has restricted access, so in order to view the recordings, you must request access using the email which you would like to view the recordings from.
 
 ## Website Organization
 
