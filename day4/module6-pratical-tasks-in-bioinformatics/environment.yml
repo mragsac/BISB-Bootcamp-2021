@@ -1,0 +1,7 @@
+name: module6
+dependencies:
+  - numpy
+  - pandas
+  - seaborn
+  - mygene
+  - scikit-learn
