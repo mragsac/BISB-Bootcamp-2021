@@ -1,0 +1,12 @@
+name: module6
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - numpy
+  - pandas
+  - seaborn
+  - mygene
+  - scikit-learn

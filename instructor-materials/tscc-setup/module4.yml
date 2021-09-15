@@ -1,0 +1,13 @@
+name: module4
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - bash_kernel
+  - fastqc
+  - star
+  - subread
+  - multiqc
+  - samtools
